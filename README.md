@@ -6,6 +6,7 @@ This project focuses on analyzing Jenson USA's dataset to extract insights on cu
 
 Dataset Link:
 https://drive.google.com/drive/folders/1feFkClnYME7Be3kjmz-TD2PV1uVkXNAN
+
 The dataset includes information about products, customers, orders, staff, and sales.
 
 Queries
